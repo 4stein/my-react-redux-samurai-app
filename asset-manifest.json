@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-react-redux-samurai-app/static/css/main.5d96b141.chunk.css",
+    "main.js": "/my-react-redux-samurai-app/static/js/main.acb72f25.chunk.js",
+    "main.js.map": "/my-react-redux-samurai-app/static/js/main.acb72f25.chunk.js.map",
+    "runtime-main.js": "/my-react-redux-samurai-app/static/js/runtime-main.ff15487a.js",
+    "runtime-main.js.map": "/my-react-redux-samurai-app/static/js/runtime-main.ff15487a.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/my-react-redux-samurai-app/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.91442a4a.chunk.js": "/my-react-redux-samurai-app/static/js/2.91442a4a.chunk.js",
+    "static/js/2.91442a4a.chunk.js.map": "/my-react-redux-samurai-app/static/js/2.91442a4a.chunk.js.map",
+    "static/js/3.20b54e81.chunk.js": "/my-react-redux-samurai-app/static/js/3.20b54e81.chunk.js",
+    "static/js/3.20b54e81.chunk.js.map": "/my-react-redux-samurai-app/static/js/3.20b54e81.chunk.js.map",
+    "index.html": "/my-react-redux-samurai-app/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/my-react-redux-samurai-app/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.5d96b141.chunk.css.map": "/my-react-redux-samurai-app/static/css/main.5d96b141.chunk.css.map",
+    "static/js/2.91442a4a.chunk.js.LICENSE.txt": "/my-react-redux-samurai-app/static/js/2.91442a4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff15487a.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.91442a4a.chunk.js",
+    "static/css/main.5d96b141.chunk.css",
+    "static/js/main.acb72f25.chunk.js"
+  ]
+}
